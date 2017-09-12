@@ -21,7 +21,7 @@ Respect the privacy of others.
 Punishments tend to follow a singular 'path'
 `Warning --> Kick --> Multiple Tempbans (Time Varies) --> Permanent Ban`
 
-This 'path' is completely contextual, and depending on the severity of the rule breaking, the rules and punishments are taken as guidelines. The mod team has full scretion of all punishments.
+This 'path' is completely contextual, and depending on the severity of the rule breaking, the rules and punishments are taken as guidelines. The mod team has full discretion of all punishments.
 
 
 If you want to discuss anything about the mod team, be it the decision made by a mod to ban someone, or the way a mod is acting, you can join #lmrofftopic, where we will hear you out.  
