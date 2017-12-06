@@ -14,7 +14,7 @@ Respect the privacy of others.
 4. **No long pastes**: Do not paste anything containing more than 500 characters and/or 3 consecutive newlines into the channel, use pastebin instead.
 5. **No bot abuse**: We know they're not human, but if you wanna abuse them, do it outside of the main channel, you can even do it in a pm.
 6. **Try to keep ontopic**: Don't go on off topic rants. Talk about programming and linux forever, just don't argue with one other person in the main chat for 2 hours straight. You can do that stuff in the #lmrofftopic channel. Same goes with any meta-discussion.
-7. **Don't be a jerk.**: Statements which are completely hurtful and have no other value will not be tolerated. Offensive jokes can be fine (assuming they're funny); being genuinely hateful is not. This includes mocking others, especially reguarding things such as race, gender, sexual orientation, etc.
+7. **Don't be a jerk.**: [Be excellent to each other](https://www.youtube.com/watch?v=N_yJFLvmjJY). Statements which are completely hurtful and have no other value will not be tolerated. Offensive jokes can be fine (assuming they're funny); being genuinely hateful is not. This includes mocking others, especially reguarding things such as race, gender, sexual orientation, etc.
 
 
 ## Punishments
